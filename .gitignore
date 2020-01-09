@@ -1,9 +1,5 @@
 
-*.cache
 *.dll
-*.pdb
 obj/Debug/DarkUIReborn.csproj.FileListAbsolute.txt
-*.pdb
-obj/Debug/DarkUI.dll
-*.pdb
 *.cache
+*.pdb
